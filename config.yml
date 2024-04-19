@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
+baseURL: "https://vrusso.com.br 
+title: Vicente Russo Neto
 paginate: 20
 theme: PaperMod
 
@@ -50,7 +50,7 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
+          title: Vicente Russo Neto
           subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
           imageUrl: "picture.jpeg"
           imageWidth: 160

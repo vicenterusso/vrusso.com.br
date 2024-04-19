@@ -9,20 +9,8 @@ enableRobotsTXT: true
 taxonomies:
     tag: tags
 
-menu:
-    main:
-        - name: Papers
-          url: papers/
-          weight: 1
-        - name: Courses
-          url: courses/
-          weight: 2
-        - name: Data
-          url: data/
-          weight: 3
-
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics. consequat."
+    description: ""
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -47,33 +35,25 @@ params:
     profileMode:
           enabled: true
           title: Vicente Russo Neto
-          subtitle: "Full Stack Developer with expertise in cloud services and scalability. Committed to problem-solving, focusing on efficient and innovative solutions. Enthusiastic Game and Mobile Developer.<br><br>I ship code at InfoSolutions, SevenSails, PixelCrate, and PantheonBots. "
+          subtitle: "Full Stack Developer with expertise in cloud services and scalability. Committed to problem-solving, focusing on efficient and innovative solutions. Enthusiastic Game and Mobile Developer.<br><br>I ship code at InfoSolutions, SevenSails, PixelCrate Games, and PantheonBots. "
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Vicente Russo Neto
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
+            - name: Seven Sails
+              url: https://www.sevensails.com.br
+            - name: Pixel Crate
+              url: https://www.pixelcrate.games
+            - name: PantheonBots
+              url: https://www.pantheonbots.trade
     socialIcons:
-        - name: CV
-          url: cv.pdf
+        #- name: CV
+        #  url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: mailto:vicente.russo@gmail.com
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://github.com/icenterusso
 
     assets:
         disableHLJS: true
@@ -82,7 +62,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Vicente Russo"
       icon: favicon.ico
       iconHeight: 18
 

@@ -35,7 +35,7 @@ params:
     profileMode:
           enabled: true
           title: Vicente Russo Neto
-          subtitle: "Full Stack Developer with expertise in cloud services and scalability. Committed to problem-solving, focusing on efficient and innovative solutions. Enthusiastic Game and Mobile Developer.<br><br>I ship code at InfoSolutions, SevenSails, PixelCrate Games, and PantheonBots. "
+          subtitle: "Full Stack Developer with expertise in cloud services and scalability. Committed to problem-solving, focusing on efficient and innovative solutions. Enthusiastic Game and Mobile Developer.<br><br>I ship code at OrthoDontic, SevenSails, PixelCrate Games, and PantheonBots. "
           imageUrl: "1690339340109.jpeg"
           imageWidth: 160
           imageHeight: 160
